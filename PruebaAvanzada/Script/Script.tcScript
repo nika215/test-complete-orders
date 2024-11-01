@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="L0 - Test Cases">
+			<child name="Orders_TestCases" key="{DE9AD9FF-5BFB-47E7-A0F9-CD4682044DB9}" path="Orders_TestCases.js" />
+		</folder>
+		<folder name="L1 - Business Actions">
+			<child name="OrdersActions" key="{7C5CFD62-3EDA-4B17-B425-89D93DE33884}" path="OrdersActions.js" />
+		</folder>
+		<folder name="L2 - Project Functions" />
+		<folder name="L3 - Common and Support Functions" />
+		<folder name="L4 - Object Maps" />
+	</children>
+</Root>
