@@ -2,7 +2,7 @@
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
 		<folder name="L0 - Test Cases">
-			<child name="Orders_TestCases" key="{DE9AD9FF-5BFB-47E7-A0F9-CD4682044DB9}" path="Orders_TestCases.js" />
+			<child name="DDT_Order_SaveAs" key="{DE9AD9FF-5BFB-47E7-A0F9-CD4682044DB9}" path="DDT_Order_SaveAs.js" />
 		</folder>
 		<folder name="L1 - Business Actions">
 			<child name="OrdersActions" key="{7C5CFD62-3EDA-4B17-B425-89D93DE33884}" path="OrdersActions.js" />
