@@ -39,6 +39,15 @@
 											</Property>
 										</Properties>
 									</Child>
+									<Child Name="OrdersView" Key="{7BBC0A3E-70B3-4A77-AD22-70061196852D}">
+										<Image FileName="-1802840329" Left="12" Top="119" Right="900" Bottom="568" />
+										<TypeInfo Item0="{193D2CE5-B40C-46B7-8730-4EB62285EA31}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="OrdersView" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="OrderForm" Key="{56E6084B-6075-4252-8CBF-E284E1B923DA}">
@@ -225,6 +234,105 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="dlgWarning" Key="{4A1B1618-12A1-4C36-BD76-8DAA34CCE171}">
+								<Image FileName="-79386531" Left="0" Top="0" Right="381" Bottom="224" />
+								<TypeInfo Item0="{D96B6F03-F1B0-423A-B039-C9CECDB4CD68}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Warning" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="dlgOpen" Key="{56091D0C-4B1D-4836-A9DC-57FF805079E5}">
+								<Image FileName="679906897" Left="-8" Top="-8" Right="1912" Bottom="1120" />
+								<TypeInfo Item0="{FDC57CDA-6B90-452F-B9E3-F6E305B3D758}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Open" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DUIViewWndClassName" Key="{C2E1DE63-DE16-4DCC-8681-390C2EB9169A}">
+										<Image FileName="-1693173860" Left="4" Top="121" Right="1900" Bottom="987" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="DUIViewWndClassName" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Explorer_Pane" Key="{98A726C2-EDA4-4EF4-8095-131A029974AF}">
+												<Image FileName="-1693173860" Left="4" Top="121" Right="1900" Bottom="987" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="DirectUI" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="HWNDView" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Explorer_Pane" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="CtrlNotifySink" Key="{6AC6A3D2-133B-4E21-ACA0-3899B2C7AFAC}">
+														<Image FileName="-1683658457" Left="7" Top="168" Right="238" Bottom="987" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="CtrlNotifySink" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NamespaceTreeControl" Key="{FEB4B828-4B3A-46B8-8749-2A2013BAF305}" ExtendedFind="True">
+																<Image FileName="-1683658457" Left="7" Top="168" Right="238" Bottom="987" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="NamespaceTreeControl" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="Namespace Tree Control" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="tvNamespaceTreeControl" Key="{BEFD036F-560F-4125-BC1B-FF6680DFACCC}">
+																		<Image FileName="-1683658457" Left="7" Top="168" Right="238" Bottom="987" />
+																		<TypeInfo Item0="{0EE42D1D-A37A-4BC5-AC74-57883393DAE0}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="SysTreeView32" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value Value="Navigation Pane" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -235,6 +343,7 @@
 		<Child Name="Orders" Owner="{58D6856B-5A00-4F27-89D7-8EDE2A975A0B}">
 			<Child Name="MainForm" Owner="{DAFC286B-8CB4-4743-9CBD-84FE8A760FD5}">
 				<Child Name="ToolBar" Owner="{8EEC4691-2E33-4F25-A4C6-6F0AE1B2EAC4}" />
+				<Child Name="OrdersView" Owner="{7BBC0A3E-70B3-4A77-AD22-70061196852D}" />
 			</Child>
 			<Child Name="OrderForm" Owner="{56E6084B-6075-4252-8CBF-E284E1B923DA}">
 				<Child Name="Group" Owner="{ADF8D8CF-065F-42C0-B5C6-C4601E409E06}">
@@ -259,6 +368,18 @@
 					</Child>
 				</Child>
 				<Child Name="btnSave" Owner="{9B405716-939A-42C2-828F-28EEAE3BD535}" />
+			</Child>
+			<Child Name="dlgWarning" Owner="{4A1B1618-12A1-4C36-BD76-8DAA34CCE171}" />
+			<Child Name="dlgOpen" Owner="{56091D0C-4B1D-4836-A9DC-57FF805079E5}">
+				<Child Name="DUIViewWndClassName" Owner="{C2E1DE63-DE16-4DCC-8681-390C2EB9169A}">
+					<Child Name="Explorer_Pane" Owner="{98A726C2-EDA4-4EF4-8095-131A029974AF}">
+						<Child Name="CtrlNotifySink" Owner="{6AC6A3D2-133B-4E21-ACA0-3899B2C7AFAC}">
+							<Child Name="NamespaceTreeControl" Owner="{FEB4B828-4B3A-46B8-8749-2A2013BAF305}">
+								<Child Name="tvNamespaceTreeControl" Owner="{BEFD036F-560F-4125-BC1B-FF6680DFACCC}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
 			</Child>
 		</Child>
 	</LogicalNodes>

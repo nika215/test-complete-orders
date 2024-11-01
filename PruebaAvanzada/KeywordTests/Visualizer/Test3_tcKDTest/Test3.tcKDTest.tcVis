@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{D42CC366-9502-4D14-9431-F60C969ACDEA}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45597.6710416667" objectName="Aliases.Orders.MainForm" objectLeft="0" objectTop="0" objectRight="912" objectBottom="612" clickPointX="-506" clickPointY="-260" imageFileName="tcvi377515203947042.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45597.6711342593" objectName="Aliases.Orders.dlgWarning" objectLeft="0" objectTop="0" objectRight="381" objectBottom="224" clickPointX="-1" clickPointY="-1" imageFileName="tcvi377523406947045.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45597.6711458333" objectName="Aliases.Orders.MainForm" objectLeft="0" objectTop="0" objectRight="912" objectBottom="612" clickPointX="90" clickPointY="62" imageFileName="tcvi377524609947046.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45597.6711689815" objectName="Aliases.Orders.MainForm" objectLeft="0" objectTop="0" objectRight="912" objectBottom="612" clickPointX="41" clickPointY="59" imageFileName="tcvi377526734947047.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45597.6711921296" objectName="Aliases.Orders.MainForm" objectLeft="0" objectTop="0" objectRight="912" objectBottom="612" clickPointX="-506" clickPointY="-260" imageFileName="tcvi3775289379470410.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45597.6712152778" objectName="Aliases.Orders.dlgOpen" objectLeft="-8" objectTop="-8" objectRight="1912" objectBottom="1120" clickPointX="-1" clickPointY="-1" imageFileName="tcvi3775308599470413.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

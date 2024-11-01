@@ -4,5 +4,8 @@
 		<child name="PepeOrder_tbl" key="{592001A3-0DF9-4BB0-AA35-CF9F7DECDD13}">
 			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="PepeOrder_tbl" ID="{592001A3-0DF9-4BB0-AA35-CF9F7DECDD13}" FileName="Files\PepeOrder.tbl" Update="False" />
 		</child>
+		<child name="modify_tbl" key="{F336AF9A-5E57-4364-970D-785390AE7C4A}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="modify_tbl" ID="{F336AF9A-5E57-4364-970D-785390AE7C4A}" FileName="Files\modify.tbl" Update="False" />
+		</child>
 	</children>
 </Root>

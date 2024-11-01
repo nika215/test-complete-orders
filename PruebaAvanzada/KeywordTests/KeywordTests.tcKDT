@@ -2,5 +2,6 @@
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
 		<child name="PruebaAvanzada" key="{BCC5016A-52EA-4F40-AA11-2FBC63072FAB}" path="..\..\..\..\QA\Academia de Software\Curso TestComplete\TestComplete_Prueba Avanzada\PruebaAvanzada.tcKDTest" />
+		<child name="Test4" key="{C3570C26-DB75-4A44-B0D5-E9557CBFBB2A}" path="Test4.tcKDTest" />
 	</children>
 </Root>

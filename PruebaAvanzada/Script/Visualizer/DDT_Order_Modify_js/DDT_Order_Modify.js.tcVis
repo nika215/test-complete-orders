@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{5D357404-C34B-43EA-9C04-6C3879CE9C58}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="13" kind="0" dateTime="45597.6716782407" objectName="Aliases.Orders.MainForm" objectLeft="0" objectTop="0" objectRight="912" objectBottom="612" clickPointX="-506" clickPointY="-260" imageFileName="tcvi377570343947043.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="15" kind="0" dateTime="45597.6717939815" objectName="Aliases.Orders.dlgOpen" objectLeft="196" objectTop="205" objectRight="466" objectBottom="227" clickPointX="258" clickPointY="214" imageFileName="tcvi3775801099470414.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
