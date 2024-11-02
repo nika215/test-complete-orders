@@ -6,7 +6,8 @@
   //modify the file
   modify();
   
-  aqString.Compare(Aliases.Orders.MainForm.OrdersView.wSelectedItems, "Pepita", true)
+  aqString.Compare(Aliases.Orders.MainForm.OrdersView.wSelectedItems, "Pepita", true);
+  TestedApps.Orders.Terminate();
 }
 
 function openFile(){

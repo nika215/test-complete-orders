@@ -4,6 +4,9 @@
 		<folder name="L0 - Test Cases">
 			<child name="DDT_Order_Modify" key="{5D357404-C34B-43EA-9C04-6C3879CE9C58}" path="DDT_Order_Modify.js" />
 			<child name="DDT_Order_SaveAs" key="{DE9AD9FF-5BFB-47E7-A0F9-CD4682044DB9}" path="DDT_Order_SaveAs.js" />
+			<child name="DDT_Order_Delete" key="{DD03521B-BC71-4EF7-9603-C85D9A50AE1D}" path="DDT_Order_Delete.js" />
+			<child name="doNotSaveEmpty" key="{7DEA0A84-E60C-4328-8853-120F90A0529C}" path="doNotSaveEmpty.js" />
+			<child name="validateDataTest" key="{1F92E24E-1DE6-43EF-B125-A2526D4D3B9B}" path="validateDataTest.js" />
 		</folder>
 		<folder name="L1 - Business Actions">
 			<child name="OrdersActions" key="{7C5CFD62-3EDA-4B17-B425-89D93DE33884}" path="OrdersActions.js" />
