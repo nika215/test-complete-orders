@@ -406,6 +406,35 @@
 							</Child>
 						</Children>
 					</Child>
+					<Child Name="explorer" Key="{A319B01C-4A33-4AEA-BBEB-0C05452A9745}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{472056D8-61DF-4B92-8085-C94919B2A28D}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{F529F3DA-4F8B-407B-81F7-B57A47A4EECE}">
+										<TypeInfo Item0="{488E2FA9-C032-4EC7-A0E4-9DA7E1A256FD}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
 				</Children>
 			</Child>
 		</Children>
@@ -460,6 +489,11 @@
 			</Child>
 			<Child Name="dlgConfirmation" Owner="{B89A5B90-1C71-414C-A1D4-4EDA8CC3FEC0}">
 				<Child Name="btnYes" Owner="{CA98EA26-09AE-45F4-BF17-6BB08B252965}" />
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{A319B01C-4A33-4AEA-BBEB-0C05452A9745}">
+			<Child Name="wndShell_TrayWnd" Owner="{472056D8-61DF-4B92-8085-C94919B2A28D}">
+				<Child Name="DesktopWindowXamlSource" Owner="{F529F3DA-4F8B-407B-81F7-B57A47A4EECE}" />
 			</Child>
 		</Child>
 	</LogicalNodes>

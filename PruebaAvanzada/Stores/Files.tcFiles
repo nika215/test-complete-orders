@@ -7,5 +7,11 @@
 		<child name="modify_tbl" key="{F336AF9A-5E57-4364-970D-785390AE7C4A}">
 			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="modify_tbl" ID="{F336AF9A-5E57-4364-970D-785390AE7C4A}" FileName="Files\modify.tbl" Update="False" />
 		</child>
+		<child name="multipleClients_tbl" key="{89E484EE-804B-4705-AA4A-772A5262A8AC}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="multipleClients_tbl" ID="{89E484EE-804B-4705-AA4A-772A5262A8AC}" FileName="Files\multipleClients.tbl" Update="False" />
+		</child>
+		<child name="CustomerList_txt" key="{F04E6D4A-1B92-462D-B71A-3B8F3D5BF378}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="CustomerList_txt" ID="{F04E6D4A-1B92-462D-B71A-3B8F3D5BF378}" FileName="Files\CustomerList.txt" Update="False" />
+		</child>
 	</children>
 </Root>

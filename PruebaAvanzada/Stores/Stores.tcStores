@@ -3,5 +3,6 @@
 	<children>
 		<child name="Regions" key="{3ECF44FB-603A-4D6F-AC09-AA3619CB64CD}" type="Regions" typeId="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" pluginName="Stores" path="Regions.tcRegions" />
 		<child name="Files" key="{603D4A31-CB29-42A1-AB43-F14C9BBC9B0F}" type="Files" typeId="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}" pluginName="Stores" path="Files.tcFiles" />
+		<child name="Tables" key="{B0B0DB90-4D3D-4666-A9F0-63F4D8297C75}" type="Tables" typeId="{70FC6ED0-A122-4A26-9B64-EDDBB2F11A49}" pluginName="Stores" path="Tables\Tables.tcTbls" />
 	</children>
 </Root>
